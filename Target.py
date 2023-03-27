@@ -66,9 +66,9 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: ViRuS007              | 
+        |            #Author: ViRuS007            | 
         |	       Version 1.0                |
- 	|   https://www.facebook.com/MR.VIRUS.007.OFICIAL     |
+ 	| https://www.facebook.com/S3D.QU33N.ANNI3|
         +=========================================+
         |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
